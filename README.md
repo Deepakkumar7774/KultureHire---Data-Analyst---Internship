@@ -47,6 +47,20 @@
 
 ---
 
+## 📊 **Key Dashboards**
+
+**1. Learning Aspirations Dashboard**
+
+
+**2. Manager Aspirations Dashboard**
+
+
+**3. Mission Aspirations Dashboard**
+
+
+
+---
+
 ## 🌟 **Why This Matters**  
 
 Understanding Gen Z’s aspirations is vital for designing workplaces that attract and retain top talent. This project provides actionable insights for fostering engagement, growth, and satisfaction among the next generation of professionals.  
