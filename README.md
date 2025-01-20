@@ -50,13 +50,14 @@
 ## 📊 **Key Dashboards**
 
 **1. Learning Aspirations Dashboard**
+
 https://github.com/Deepakkumar7774/KultureHire---Data-Analyst---Internship/blob/main/Learning%20Aspirations.png
 
 **2. Manager Aspirations Dashboard**
 
+https://github.com/Deepakkumar7774/KultureHire---Data-Analyst---Internship/blob/main/Manager%20Aspirations.png
 
 **3. Mission Aspirations Dashboard**
-
 
 
 ---
