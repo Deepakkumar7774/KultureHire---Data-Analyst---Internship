@@ -1,4 +1,4 @@
--- Genz Career Aspiration Analysis--
+-- Genz Career Aspiration Analysis in MySQL --
 	
 select * from employee_preferences;
 
