@@ -21,7 +21,7 @@
 - **🛢️ SQL**:  
   - Executed complex queries to extract deeper insights and uncover trends from the data.
   - Here is the file:
-    [View README File](https://raw.githubusercontent.com/deepak-kumar7774/genz-career-analysis/main/README.md)
+    [View README File](https://raw.githubusercontent.com/deepak-kumar7774/Gen Z - Data Analysis in MySQL workbench.sql/main/README.md)
 
 ---
 
