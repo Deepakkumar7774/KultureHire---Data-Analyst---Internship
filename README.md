@@ -19,7 +19,9 @@
   - Data cleaning, transformation, and analysis.  
   - Interactive dashboard creation to visualize key trends.  
 - **🛢️ SQL**:  
-  - Executed complex queries to extract deeper insights and uncover trends from the data.  
+  - Executed complex queries to extract deeper insights and uncover trends from the data.
+  - Here is the file:
+    [View README File](https://raw.githubusercontent.com/deepak-kumar7774/genz-career-analysis/main/README.md)
 
 ---
 
