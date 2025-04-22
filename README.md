@@ -26,7 +26,7 @@
     [Gen Z - Data Analysis in MySQL workbench.sql](https://raw.githubusercontent.com/deepak-kumar/genz-career-analysis/main/Gen%20Z%20-%20Data%20Analysis%20in%20MySQL%20workbench.sql)
     
 - **📊 Microsoft Power BI**
-  - Here is the file:
+  - Here is the file: [Career%20Aspiration%20of%20Gen%20Z%20Dashboard.pbix](https://github.com/Deepakkumar7774/Career-Aspirations-of-Gen-Z/blob/main/Career%20Aspiration%20of%20Gen%20Z%20Dashboard.pbix)
  
 - **📊 Microsoft Power Point**
  - Here is the file: [KultureHire_Internship_Data_Storytelling.pptx](https://github.com/Deepakkumar7774/KultureHire---Data-Analyst---Internship/blob/main/KultureHire_Internship_Data_Storytelling.pptx)
