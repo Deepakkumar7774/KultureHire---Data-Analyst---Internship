@@ -17,12 +17,21 @@
 
 - **📊 Microsoft Excel**:  
   - Data cleaning, transformation, and analysis.  
-  - Interactive dashboard creation to visualize key trends.  
+  - Interactive dashboard creation to visualize key trends.
+  - Here is the file: [Gen%20Z%20Career%20Aspirations%20Dashboards.xlsx](https://github.com/Deepakkumar7774/KultureHire---Data-Analyst---Internship/blob/main/Gen%20Z%20Career%20Aspirations%20Dashboards.xlsx)
+ 
 - **🛢️ SQL**:  
   - Executed complex queries to extract deeper insights and uncover trends from the data.
   - Here is the file:
     [Gen Z - Data Analysis in MySQL workbench.sql](https://raw.githubusercontent.com/deepak-kumar/genz-career-analysis/main/Gen%20Z%20-%20Data%20Analysis%20in%20MySQL%20workbench.sql)
+    
+- **📊 Microsoft Power BI**
+  - Here is the file:
+ 
+- **📊 Microsoft Power Point**
+ - Here is the file:
 
+   
 ---
 
 ## 📈 **Key Insights**  
