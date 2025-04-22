@@ -29,7 +29,7 @@
   - Here is the file:
  
 - **📊 Microsoft Power Point**
- - Here is the file:
+ - Here is the file: [KultureHire_Internship_Data_Storytelling.pptx](https://github.com/Deepakkumar7774/KultureHire---Data-Analyst---Internship/blob/main/KultureHire_Internship_Data_Storytelling.pptx)
 
    
 ---
